@@ -12,7 +12,7 @@ CyberStrikeAI is an **AI-native security testing platform** built in Go. It inte
 
 ## Interface & Integration Preview
 
-<div align="center">
+<div align="center">. 
 
 ### System Dashboard Overview
 

@@ -24,7 +24,7 @@ CyberStrikeAI is an **AI-native security testing platform** built in Go. It inte
 
 <table>
 <tr>
-<td width="33.33%" align="center">
+<td width="33.33%" align="center"> 
 <strong>Web Console</strong><br/>
 <img src="./images/web-console.png" alt="Web Console" width="100%">
 </td>
